@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ivo-toby-contentful-mcp-graphql-badge.png)](https://mseep.ai/app/ivo-toby-contentful-mcp-graphql)
+
 <img width="700" src="https://images.ctfassets.net/jtqsy5pye0zd/6wNuQ2xMvbw134rccObi0q/bf61badc6d6d9780609e541713f0bba6/Contentful_Logo_2.5_Dark.svg?w=700&q=100" alt="Contentful GraphQL MCP server"/>
 
 # Contentful GraphQL MCP Server
